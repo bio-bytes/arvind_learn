@@ -1,12 +1,12 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
+![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png)
 
-#### Get the word out
+#### Welcome
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
+<span style="color:gray">Introduction</span>
 <br>
 <span style="color:gray">on</span>
 <br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
+<span style="color:gray">NPM</span>
 
 ---
 
