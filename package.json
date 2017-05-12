@@ -1,13 +1,20 @@
 {
-  "name": "polymer-starter-kit",
-  "license": "BSD-3-Clause",
-  "devDependencies": {
-    "eslint": "^3.12.0",
-    "eslint-config-google": "^0.7.1",
-    "eslint-plugin-html": "^1.7.0"
-  },
+  "name": "arvind_learn",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "lint": "eslint . --ext js,html --ignore-path .gitignore",
-    "test": "npm run lint && polymer test"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bio-bytes/arvind_learn.git"
+  },
+  "keywords": [],
+  "author": "Arvind_iyer <ayalurarvind@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bio-bytes/arvind_learn/issues"
+  },
+  "homepage": "https://github.com/bio-bytes/arvind_learn#readme",
+  "description": ""
 }
